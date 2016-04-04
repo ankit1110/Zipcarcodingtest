@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Zipcar Coding Test</string>
+
+    <string name="title_activity_items_main">Vending Machine</string>
+    <string name="title_activity_edit_items">Edit Item</string>
+
+    <string name="btn_buy">BUY</string>
+    <string name="btn_edit">EDIT</string>
+
+    <string name="hint_amount">AMOUNT: </string>
+    <string name="hint_stock">STOCK COUNT: </string>
+    <string name="action_save">SAVE</string>
+    <string name="title_activity_buy">BuyActivity</string>
+
+</resources>
